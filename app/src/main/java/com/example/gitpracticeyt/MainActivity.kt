@@ -15,6 +15,6 @@ class MainActivity :
             R.layout.activity_main
         )
         println("THIS IS CONTAINED IN MY SECOND COMMIT")
-       skcfbdjvb hsfvh
+        today is a good day haha
     }
 }
